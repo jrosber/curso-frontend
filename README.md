@@ -16,6 +16,7 @@ Arquivo B - Versão 1 - Versão 2
  - Win11: OK
  
 ## Criar a conta no Git 
+ - Conta criada
 
 ## Clonar o projeto
 
