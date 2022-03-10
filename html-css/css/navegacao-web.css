@@ -1,0 +1,76 @@
+
+     
+h1 {
+    text-align: center;
+}
+
+#div-align-center {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+#grafico-01 {
+    padding: 1px;
+    
+    background-color: transparent;
+    overflow: hidden;
+    float: left;
+    margin: 20px auto;
+    filter: drop-shadow(12px 12px 10px #333);
+}    
+
+#grafico-02 {
+    padding: 1px;
+    
+    background-color: transparent;
+    overflow: hidden;
+    float: left;
+    margin: 20px auto;
+    filter: drop-shadow(12px 12px 10px #333);
+}
+
+#mapa-01 {
+    padding: 1px;
+    background-color: transparent;
+    overflow: hidden;
+    float: left;
+    margin: 20px auto;
+    filter: drop-shadow(12px 12px 10px #333);
+}
+
+#mapa-02 {
+    padding: 1px;
+    background-color: transparent;
+    overflow: hidden;
+    float: left;
+    margin: 20px auto;
+    filter: drop-shadow(12px 12px 10px #333);
+    
+}
+
+#sinopse-01 {
+    padding: 1px;
+    background-color: transparent;
+    overflow: hidden;
+    float: left;
+    margin: 20px auto;
+    margin: 20px auto;
+}
+
+#sinopse-02 {
+    padding: 1px;
+    background-color: transparent;
+    overflow: hidden;
+    float: left;
+    margin: 20px auto;
+}
+
+a:hover {
+    color: brown;
+}
+
+#botao-topo {
+    width: 100%;
+    height: 10px;
+}
