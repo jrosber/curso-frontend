@@ -30,6 +30,10 @@ Informação de alteração
 ## Gitflow
  - Fluxo do git
 
+### Branchs
+ - main / master (quando trabalhamos sem equipe de dev; somente um único desenvolvedor ou como diretório principal utilizado para o código principal)
+ - para gerar um novo diretório para não danificar os códigos armazenados no diretório "main", se utiliza o código abaix: $ git checkout -b nomedodiretorio que irá gerar uma cópia de tudo que está no diretório "mais" para o novo diretório.
+
 
 
 ## COMANDOS UTILIZADOS
