@@ -1,39 +1,39 @@
 # curso-frontend
 # GIT
 ## conceitos de versionamento
- - historico do arquivo
- - controle da versao 
- - quem alterou?
- - o que alterou 
- - quando alterou 
- - todos os arquivos
- - evolucao continua
+ - Histórico do arquivo
+ - Controle da versão 
+ - Quem alterou?
+ - O que alterou? 
+ - Quando alterou? 
+ - Todos os arquivos
+ - Evolução continua
  
 Arquivo A - Versão 1 - Versão 2
 Arquivo B - Versão 1 - Versão 2
 
 ## Instalação do Git
- - Win11: OK
+ - Win 11: OK
  
 ## Criar a conta no Git 
- - Conta criada
+ - Conta criada com sucesso
 
 ## Clonar o projeto
- - projeto clonado
+ - Projeto clonado com sucesso
 
-## comits
+## Comits
 Informação de alteração
- - após testado todo o seu código
- - primeiro commit efetuado
+ - após testado todo o seu código, efetuar o comando abaixo:
  - git commit -m "primeiro commit de código"
 
 
 ## Gitflow
- - fluxo do git
+ - Fluxo do git
 
 
 
 ## COMANDOS UTILIZADOS
+ - $ git clone url
  - $ git status (verifica o histórico das modificações)
  - $ cd curso-frontend (acessa o diretório do projeto no git)
  - $ git add . (adiciona os arquivos modificados)
