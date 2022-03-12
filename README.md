@@ -43,3 +43,4 @@ Informação de alteração
  - $ git add . (adiciona os arquivos modificados)
  - $ git commit -m "descrição" (comita os arquivos)
  - $ git push (envia os arquivos comitados para o diretório git)
+ - $ git checkout -b nomedodiretorio
