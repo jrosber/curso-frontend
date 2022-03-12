@@ -1,6 +1,6 @@
 # curso-frontend
 # GIT
-## conseitos de versionamento
+## conceitos de versionamento
  - historico do arquivo
  - controle da versao 
  - quem alterou?
