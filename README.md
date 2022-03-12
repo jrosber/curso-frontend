@@ -19,10 +19,12 @@ Arquivo B - Versão 1 - Versão 2
  - Conta criada
 
 ## Clonar o projeto
+ - projeto clonado
 
 ## comits
 Informação de alteração
  - após testado todo o seu código
+ - primeiro commit efetuado
 
 ## Gitflow
  - fluxo do git
