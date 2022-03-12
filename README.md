@@ -26,7 +26,16 @@ Informação de alteração
  - após testado todo o seu código
  - primeiro commit efetuado
  - git commit -m "primeiro commit de código"
- 
+
 
 ## Gitflow
  - fluxo do git
+
+
+
+## COMANDOS UTILIZADOS
+ - $ git status (verifica o histórico das modificações)
+ - $ cd curso-frontend (acessa o diretório do projeto no git)
+ - $ git add . (adiciona os arquivos modificados)
+ - $ git commit -m "descrição" (comita os arquivos)
+ - $ git push (envia os arquivos comitados para o diretório git)
