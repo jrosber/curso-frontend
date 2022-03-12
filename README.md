@@ -25,6 +25,8 @@ Arquivo B - Versão 1 - Versão 2
 Informação de alteração
  - após testado todo o seu código
  - primeiro commit efetuado
+ - git commit -m "primeiro commit de código"
+ 
 
 ## Gitflow
  - fluxo do git
